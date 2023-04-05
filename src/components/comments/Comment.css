@@ -4,6 +4,9 @@
     background: rgb(243, 243, 243);
     padding: 10px;
 }
+/* .comment-right-part:hover{
+    padding: 15px;
+} */
 .comment-action{
     background-color: black;
     border-radius: 30px;
